@@ -1,0 +1,80 @@
+{"menu":[
+    {
+        "id":1,
+        "nombre":"hamburguesa Especial",
+        "descripcion":"Tiene doble carne,queso,tocino,salchicha para asar,lechuga,tomate,huevo frito y papas fritas",
+        "precio":120,
+        "imagen":"img/https://thumbs.dreamstime.com/b/hamburguesas-con-patatas-fritas-y-salchichas-para-la-parrillada-deliciosa-196320652.jpg"
+    },
+    {
+        "id":2,
+        "nombre":"Tacos de bistec",
+        "descripcion":"Una orden de doble tortilla,cebolla caramelizada,totopos,salsa verde y limones",
+        "precio":60,
+        "imagen":"img/https://www.cocinavital.mx/wp-content/uploads/2020/09/tacos-de-bisteces-encebollados-634x420.jpg"
+}    
+{
+    "id":3,
+    "nombre":"Tacos de trompo",
+    "descripcion":"Una orden de doble tortilla,cebolla caramelizada,totopos,salsa verde y limones",
+    "precio":70,
+    "imagen":"img/https://www.cocinavital.mx/wp-content/uploads/2020/09/tacos-de-bisteces-encebollados-634x420.jpg"
+}    
+{
+    "id":4,
+    "nombre":"Tacos de tripa",
+    "descripcion":"Una orden de doble tortilla,cebolla caramelizada,totopos,salsa verde y limones",
+    "precio":75,
+    "imagen":"img/https://www.cocinavital.mx/wp-content/uploads/2020/09/tacos-de-bisteces-encebollados-634x420.jpg"
+}    
+{
+    "id":5,
+    "nombre":"Tacos de carne asada",
+    "descripcion":"Una orden de doble tortilla,cebolla caramelizada,totopos,salsa verde y limones",
+    "precio":70,
+    "imagen":"img/https://www.cocinavital.mx/wp-content/uploads/2020/09/tacos-de-bisteces-encebollados-634x420.jpg"
+}    
+{
+    "id":6,
+    "nombre":"Tacos de carnitas",
+    "descripcion":"Una orden de doble tortilla,cebolla caramelizada,totopos,salsa verde y limones",
+    "precio":70,
+    "imagen":"img/https://www.cocinavital.mx/wp-content/uploads/2020/09/tacos-de-bisteces-encebollados-634x420.jpg"
+}    
+{
+    "id":7,
+    "nombre":"Tacos de chicharron",
+    "descripcion":"Una orden de doble tortilla,cebolla caramelizada,totopos,salsa verde y limones",
+    "precio":55,
+    "imagen":"img/https://www.cocinavital.mx/wp-content/uploads/2020/09/tacos-de-bisteces-encebollados-634x420.jpg"
+}    
+{
+    "id":8,
+    "nombre":"Papas a la fracesa",
+    "descripcion":"Una orden familiar con queso y ketchup  ",
+    "precio":40,
+    "imagen":"img/https://www.cocinavital.mx/wp-content/uploads/2020/09/tacos-de-bisteces-encebollados-634x420.jpg"
+}    
+{
+    "id":9,
+    "nombre":"sincronizada(bistek o trompo)",
+    "descripcion":"tamaño de 40cm ,cebolla caramelizada,totopos,salsa verde y limones",
+    "precio":100,
+    "imagen":"img/https://www.cocinavital.mx/wp-content/uploads/2020/09/tacos-de-bisteces-encebollados-634x420.jpg"
+} 
+{
+    "id":10,
+    "nombre":"Torta de bistec",
+    "descripcion":"Una orden de doble tortilla,cebolla caramelizada,totopos,salsa verde y limones",
+    "precio":60,
+    "imagen":"img/https://www.cocinavital.mx/wp-content/uploads/2020/09/tacos-de-bisteces-encebollados-634x420.jpg"
+} 
+{
+    "id":9,
+    "nombre":"sincronizada mixta",
+    "descripcion":"tamaño de 40cm ,cebolla caramelizada,totopos,salsa verde y limones",
+    "precio":120,
+    "imagen":"img/https://www.cocinavital.mx/wp-content/uploads/2020/09/tacos-de-bisteces-encebollados-634x420.jpg"
+} 
+]   
+    }

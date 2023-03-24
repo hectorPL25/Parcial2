@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <title>restaurante eltilin</title>
+</head>
+<body>
+    <div style="margin: 24px;">
+        <nav class="navbar navbar-light" style="background-color:black;">
+            <div class="container">
+                <ul class="nav navbar-nav">
+                    <li>
+                    <a href="index.html">inicio</a>
+                    </li>
+                    <li class="active">
+                    <a href="menu.html">menu</a>
+                    </li>
+                    <li>
+                    <a href="pedido.html">pedido</a>
+                    </li>
+                    <li>
+                    <a href="contacto.html">contacto</a>
+                    </li>
+                </ul>
+            </div>
+<h1 style="text-align:center ;">Menu</h1>
+<div id="menu"></div>
+<script>
+    fetch ('menu.json')
+    .then(response => response.json())
+    .then(data =>{
+        const tabla=document.createElement('table');
+      tabla.innerHTML=<thead>
+        <tr>
+            <th>Categoria</th>
+            <th>Producto</th>
+            <th>Imagen</th>
+            <th>Descripcion</th>
+            <th>Precio</th>
+            <th>Seleccion</th>
+            </tr>
+</thead>
+<tbody></tbody>;
+document.getElementById("menu").appendChild(tabla);
+Object.keys(data).forEach(Categoria=>{
+    data(Categoria).forEach(Producto=>{
+        menu.appendChild(container)
+        });
+    })
+
+</script>
+</body>
+</html>
